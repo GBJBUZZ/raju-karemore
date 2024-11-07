@@ -4,7 +4,7 @@ import history01 from "../../assets/history-01.png";
 import history02 from "../../assets/history-02.png";
 import history03 from "../../assets/history-03.png";
 import history04 from "../../assets/history-04.png";
-import lineImage from '../../assets/line.png';
+import lineImage from '../../assets/Line.png';
 
 
 
